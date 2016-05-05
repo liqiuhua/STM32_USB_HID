@@ -1,0 +1,15 @@
+..\..\output\mass_mal.o: ..\..\User\USB\CONFIG\mass_mal.c
+..\..\output\mass_mal.o: ..\..\User\USB\CONFIG\mass_mal.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_conf.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_dma.h
+..\..\output\mass_mal.o: ..\..\CMSIS\stm32f10x.h
+..\..\output\mass_mal.o: ..\..\CMSIS\core_cm3.h
+..\..\output\mass_mal.o: f:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\mass_mal.o: ..\..\CMSIS\system_stm32f10x.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_conf.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_sdio.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\..\output\mass_mal.o: ..\..\Libraries\inc\misc.h
